@@ -2,7 +2,7 @@
 
 ![Demo App](/frontend/public/Demo.png)
 
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+
 
 Highlights:
 
